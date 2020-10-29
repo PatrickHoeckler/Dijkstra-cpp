@@ -23,7 +23,7 @@ The file ex1.txt contains the following text:
 This numbers represent the costs from moving to a node from another where -1 indicates that there is no connection in that direction (cost infinite). The table bellow shows better the relation between the nodes given by this file.
 <table>
   <tr>
-    <th id="cost" scope="colgroup" colspan="6">Cost to moving from-to node</td>
+    <th id="cost" scope="colgroup" colspan="6">Cost of moving from-to node</td>
   </tr>
   <tr>
     <th id="from" headers="cost" scope="col" rowspan="2" >From Node</td>
@@ -85,7 +85,7 @@ This numbers represent the costs from moving to a node from another where -1 ind
 
 This values can be converted into the following graph representation:
 
-![Graph for ex1.txt](docs/ex1.png)
+![Graph for ex1.txt](docs/ex1.PNG)
 
 The algorithm implemented in this program will ask for a starting vertice and calculate the minimun distance needed to get to the last node defined. Calling the program for the example `ex1.txt` will result in:
 ```
@@ -108,8 +108,8 @@ Vertice de origem - V0
 {V3->V2} - custo de V0 a V2= 5
 ```
 
-In this example the starting vertice was choosen to be V0, you can see the results showing the costs to moving from V0 to the destination V4 and also the constructed tree used to find the path. The resulting tree can be seen by the image bellow.
+In this example the starting vertice was choosen to be V0, you can see the results showing the costs of moving from V0 to the destination V4 and also the constructed tree used to find the path. The resulting tree can be seen in the image bellow.
 
-![Tree resulting from example](docs/ex1-v0.png)
+![Tree resulting from example](docs/ex1-V0.png)
 
 For a complete list of the graphs and all the possible trees constructed for the two examples you can check the [docs page](docs). 

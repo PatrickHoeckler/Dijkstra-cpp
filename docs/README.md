@@ -13,7 +13,7 @@ This file can be found at `examples\ex1.txt`, it's contents are:
 The equivalent table of connections for this set of numbers is:
 <table>
   <tr>
-    <th id="cost" scope="colgroup" colspan="6">Cost to moving from-to node</td>
+    <th id="cost" scope="colgroup" colspan="6">Cost of moving from-to node</td>
   </tr>
   <tr>
     <th id="from" headers="cost" scope="col" rowspan="2" >From Node</td>
@@ -114,7 +114,7 @@ This file can be found at `examples\ex2.txt`, it's contents are:
 The equivalent table of connections for this set of numbers is:
 <table>
   <tr>
-    <th id="cost" scope="colgroup" colspan="7">Cost to moving from-to node</td>
+    <th id="cost" scope="colgroup" colspan="7">Cost of moving from-to node</td>
   </tr>
   <tr>
     <th id="from" headers="cost" scope="col" rowspan="2" >From Node</td>
