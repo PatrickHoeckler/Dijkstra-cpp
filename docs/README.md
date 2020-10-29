@@ -75,28 +75,28 @@ The equivalent table of connections for this set of numbers is:
 
 This is equivalent to the following graph representation.
 
-![Graph for ex1.txt](ex1.png)
+![Graph for ex1.txt](ex1.PNG)
 
 By running this example in the program you can choose from what node the search will begin, where the destination is the last node (in this case V4). Bellow you will find the resulting graph representation of the trees found for each possible starting node:
  + Starting from V0:
 
- ![Tree from ex1.txt starting from V0](ex1-v0.png)
+ ![Tree from ex1.txt starting from V0](ex1-V0.png)
  
  + Starting from V1:
 
- ![Tree from ex1.txt starting from V1](ex1-v1.png)
+ ![Tree from ex1.txt starting from V1](ex1-V1.png)
 
  + Starting from V2:
 
- ![Tree from ex1.txt starting from V2](ex1-v2.png)
+ ![Tree from ex1.txt starting from V2](ex1-V2.png)
 
  + Starting from V3:
 
- ![Tree from ex1.txt starting from V3](ex1-v3.png)
+ ![Tree from ex1.txt starting from V3](ex1-V3.png)
 
  + Starting from V4:
 
- ![Tree from ex1.txt starting from V4](ex1-v4.png)
+ ![Tree from ex1.txt starting from V4](ex1-V4.png)
 
 
 
@@ -197,24 +197,24 @@ This is equivalent to the following graph representation.
 By running this example in the program you can choose from what node the search will begin, where the destination is the last node (in this case V5). Bellow you will find the resulting graph representation of the trees found for each possible starting node:
  + Starting from V0:
 
- ![Tree from ex2.txt starting from V0](ex2-v0.png)
+ ![Tree from ex2.txt starting from V0](ex2-V0.png)
  
  + Starting from V1:
 
- ![Tree from ex2.txt starting from V1](ex2-v1.png)
+ ![Tree from ex2.txt starting from V1](ex2-V1.png)
 
  + Starting from V2:
 
- ![Tree from ex2.txt starting from V2](ex2-v2.png)
+ ![Tree from ex2.txt starting from V2](ex2-V2.png)
 
  + Starting from V3:
 
- ![Tree from ex2.txt starting from V3](ex2-v3.png)
+ ![Tree from ex2.txt starting from V3](ex2-V3.png)
 
  + Starting from V4:
 
- ![Tree from ex2.txt starting from V4](ex2-v4.png)
+ ![Tree from ex2.txt starting from V4](ex2-V4.png)
 
  + Starting from V5:
 
- ![Tree from ex2.txt starting from V5](ex2-v5.png)
+ ![Tree from ex2.txt starting from V5](ex2-V5.png)
